@@ -23,3 +23,6 @@
 ![This is an alt text.](https://github.com/westsi1ver/MiniHomePage/blob/main/chungdong.jpg?raw=true "This is a sample image.")
 
 
+## 컨택
+- phonne
+- email
